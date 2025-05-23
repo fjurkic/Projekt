@@ -1,0 +1,5 @@
+﻿  funkcije.c
+C:\Users\student\Desktop\Projekt-main\funkcije.c(108,16): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\student\Desktop\Projekt-main\funkcije.c(108,16): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\student\Desktop\Projekt-main\funkcije.c(153,16): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+  Jurkic_Projekt.vcxproj -> C:\Users\student\Desktop\Projekt-main\x64\Debug\Jurkic_Projekt.exe
