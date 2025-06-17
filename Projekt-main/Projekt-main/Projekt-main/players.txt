@@ -1,4 +1,0 @@
-Petar,1,Goalkeeper,36,0
-Marko,5,Defender,35,6
-Luka,8,Unknown,25,18
-Fran,10,Forward,38,27
