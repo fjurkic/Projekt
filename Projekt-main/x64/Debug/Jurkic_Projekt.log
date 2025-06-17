@@ -1,0 +1,5 @@
+﻿  funkcije.c
+C:\Users\Fran\Desktop\Projekt-main\funkcije.c(39,15): warning C4013: 'stringToPosition' undefined; assuming extern returning int
+  main.c
+  Generating Code...
+  Jurkic_Projekt.vcxproj -> C:\Users\Fran\Desktop\Projekt-main\x64\Debug\Jurkic_Projekt.exe
